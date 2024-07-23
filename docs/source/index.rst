@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+OK9 - Nền Tảng Cá Cược Trực Tuyến Uy Tín và Chất Lượng Hàng Đầu - ok9kim2.com
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Nhà cái `OK9 <https://ok9kim2.com/>`_ là một trong những nền tảng cá cược trực tuyến uy tín và chất lượng hàng đầu hiện nay. Với cam kết mang đến cho người chơi những trải nghiệm giải trí tuyệt vời, OK9 cung cấp đa dạng các loại hình cá cược như game bài, xổ số, casino trực tuyến, và thể thao. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+OK9 nổi bật với giao diện thân thiện, dễ sử dụng cùng với dịch vụ chăm sóc khách hàng chuyên nghiệp, luôn sẵn sàng hỗ trợ 24/7. Ngoài ra, OK9 còn thu hút người chơi bởi những chương trình khuyến mãi hấp dẫn và các ưu đãi đặc biệt dành cho thành viên mới và thành viên thân thiết. Với sự uy tín và chất lượng đã được khẳng định, OK9 chắc chắn sẽ là lựa chọn lý tưởng cho những ai đam mê cá cược và giải trí trực tuyến.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 1175 ĐT825, Tân Tạo, Bình Tân, Hồ Chí Minh, Việt Nam. 
 
-Contents
---------
+Phone: 0954387680. 
 
-.. toctree::
+Email: info@ok9kim2.com. 
 
-   usage
-   api
+Website: https://ok9kim2.com/
+
+#ok9 #nhacaiok9 #trangchuok9 #dangkyok9 #linkok9 #ok9kim2_com
